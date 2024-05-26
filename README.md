@@ -1,2 +1,2 @@
 # hello_python
-Learning python
+Hello python is my project to learn python
